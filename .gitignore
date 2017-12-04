@@ -69,6 +69,6 @@ target/
 .ipynb_checkpoints/
 
 #Googles Word2vec
-#data/input/word_embeddings/GoogleNews-vectors-negative300.bin
+data/input/word_embeddings/GoogleNews-vectors-negative300.bin
 
-#*.bin
+*.bin
